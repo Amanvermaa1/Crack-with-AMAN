@@ -17,12 +17,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1675-magnetic-force-between-two-balls) |
-## Hash Table
-|  |
-| ------- |
-| [2186-count-vowel-substrings-of-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2186-count-vowel-substrings-of-a-string) |
-## String
-|  |
-| ------- |
-| [2186-count-vowel-substrings-of-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2186-count-vowel-substrings-of-a-string) |
 <!---LeetCode Topics End-->
