@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -51,9 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
