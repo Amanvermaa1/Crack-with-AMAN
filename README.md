@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
+| [0735-asteroid-collision](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0735-asteroid-collision) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1675-magnetic-force-between-two-balls) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0735-asteroid-collision) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
