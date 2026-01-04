@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0735-asteroid-collision) |
+| [1390-four-divisors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1675-magnetic-force-between-two-balls) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
