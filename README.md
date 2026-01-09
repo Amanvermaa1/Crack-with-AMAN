@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0686-repeated-string-match) |
 ## Trie
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [1390-four-divisors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1390-four-divisors) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
