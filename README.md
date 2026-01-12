@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -117,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
