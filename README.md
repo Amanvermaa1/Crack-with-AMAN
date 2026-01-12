@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0496-next-greater-element-i) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0796-rotate-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
