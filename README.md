@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0242-valid-anagram) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0918-maximum-sum-circular-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
