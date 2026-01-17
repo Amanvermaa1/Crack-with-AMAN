@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0796-rotate-string) |
