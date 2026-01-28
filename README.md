@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [1390-four-divisors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1390-four-divisors) |
 ## String Matching
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1395-count-number-of-teams) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
