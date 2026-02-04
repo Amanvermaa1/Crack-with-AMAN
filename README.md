@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0567-permutation-in-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0796-rotate-string) |
