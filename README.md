@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3379-transformed-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3379-transformed-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3379-transformed-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3379-transformed-array) |
 ## String
 |  |
 | ------- |
