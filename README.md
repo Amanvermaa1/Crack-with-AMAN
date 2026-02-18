@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0918-maximum-sum-circular-subarray) |
 | [1390-four-divisors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1395-count-number-of-teams) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1675-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0918-maximum-sum-circular-subarray) |
 | [1395-count-number-of-teams](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1395-count-number-of-teams) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0567-permutation-in-string) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3634-minimum-removals-to-balance-array) |
