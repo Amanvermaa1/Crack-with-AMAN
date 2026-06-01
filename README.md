@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0134-gas-station) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0242-valid-anagram) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1675-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
