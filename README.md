@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3379-transformed-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3379-transformed-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1675-magnetic-force-between-two-balls) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
