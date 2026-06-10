@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3379-transformed-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3634-minimum-removals-to-balance-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
