@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
