@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1675-magnetic-force-between-two-balls) |
+| [1732-find-the-highest-altitude](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1732-find-the-highest-altitude) |
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
