@@ -19,7 +19,7 @@ class Solution {
                 matrix[i][left] = matrix[i][right];
                 matrix[i][right] = temp;
                 left++;
-                right--;
+                right--; 
             }
         }
     }
