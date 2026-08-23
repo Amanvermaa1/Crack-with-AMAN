@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2104-sum-of-subarray-ranges) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
@@ -318,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1143-longest-common-subsequence) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
