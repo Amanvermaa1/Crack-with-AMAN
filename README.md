@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3838-weighted-word-mapping) |
+| [3904-smallest-stable-index-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1732-find-the-highest-altitude) |
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
