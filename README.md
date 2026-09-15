@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1390-four-divisors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1395-count-number-of-teams) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1732-find-the-highest-altitude) |
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
