@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3379-transformed-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3379-transformed-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3634-minimum-removals-to-balance-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3689-maximum-total-subarray-value-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0202-happy-number) |
 | [1390-four-divisors](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1390-four-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
