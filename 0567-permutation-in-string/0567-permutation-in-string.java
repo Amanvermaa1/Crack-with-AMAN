@@ -1,25 +1,27 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int k = s1.length();
+        int n1 = s1.length();
+        int n2 = s2.length();
+
+        int freq1[] = new int[26];
+        int freq2[] = new int[26];
+        if(n1 > n2) return false ;
+
+        for(int i = 0 ; i < s1.length(); i++){
+            freq1[s1.charAt(i)- 'a']++ ;
+        }
         int left = 0 ;
+        for(int right = 0 ; right < s2.length(); right++){
+            freq2[s2.charAt(right) - 'a']++ ;
 
-        int f1[] = new int[26];
-        for(char ch: s1.toCharArray()) f1[ch-'a']++ ;
-
-        int f2[] = new int[26];
-        for(int i = 0 ; i<s2.length();i++){
-            char ch = s2.charAt(i);
-            f2[ch-'a']++;
-            if(i<k-1) continue ;
-            if(Arrays.equals(f1,f2)) return true ;
-            f2[s2.charAt(i-k+1)-'a']-- ;
-
-       
-       
-      }
-      return false ;
+            if(right - left +1 > n1){
+                freq2[s2.charAt(left)- 'a']-- ;
+            left++ ;
+            }
+            if(Arrays.equals(freq1 ,freq2)){
+                return true ;
+            }
+        }
+    return false ;
     }
-    
-
-    
 }
