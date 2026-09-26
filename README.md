@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0229-majority-element-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0739-daily-temperatures) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1143-longest-common-subsequence) |
@@ -350,8 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
