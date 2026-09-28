@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2390-removing-stars-from-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2390-removing-stars-from-a-string) |
 | [3379-transformed-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3379-transformed-array) |
 | [3838-weighted-word-mapping](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2390-removing-stars-from-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3838-weighted-word-mapping) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
