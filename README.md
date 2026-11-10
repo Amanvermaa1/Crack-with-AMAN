@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3634-minimum-removals-to-balance-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3838-weighted-word-mapping) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3693-climbing-stairs-ii](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amanvermaa1/Crack-with-AMAN/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
